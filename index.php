@@ -4,7 +4,7 @@ interface InterfaceTransport{
     public function getName();
     public function getColor();
     public function getSpeed();
-    public function getBucket()
+    public function getBucket();
     public function getGoing();
     public function moves();
 
